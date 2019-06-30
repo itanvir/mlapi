@@ -1,5 +1,5 @@
 # mlapi
-A machine learning API using flask and postman.
+A machine learning API using Flask and Postman.
 
 Usage:  
 python app.py
